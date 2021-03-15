@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cats</string>
+    <string name="developer">Shinan Mohamed</string>
+    <string name="developerBatch">BIT-SD-A6</string>
+    <string name="titleOne">Kittens</string>
+    <string name="titleTwo">Lazy Cats</string>
+    <string name="titleThree">Wild Cats</string>
+    <string name="cat_view_default_title">Cat View</string>
+    <string name="btnBackText">Go Back</string>
+</resources>
